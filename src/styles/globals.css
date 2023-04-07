@@ -1,0 +1,10 @@
+
+.div_genre{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+.container{
+  margin-top: 4rem;
+}

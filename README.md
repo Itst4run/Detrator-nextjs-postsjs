@@ -5,12 +5,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+1. npm install or npm install --legacy-peer-deps
+2. npm run dev
 # or
 yarn dev
 # or
 pnpm dev
 ```
+below 1 screenshot of the above assignment
+![image](https://user-images.githubusercontent.com/97257397/230569009-5dd49b03-2f89-4235-9c29-2861c0f323c5.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
